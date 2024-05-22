@@ -35,7 +35,7 @@ function Intro() {
         <Icon to="https://github.com/Biswaaajit">
           <FiGithub className="text-2xl md:text-3xl text-amber-700 " />
         </Icon>
-        <Icon to="www.linkedin.com/in/biswajeet-barik-5a573521a">
+        <Icon to="https://www.linkedin.com/in/biswajeet-barik-5a573521a">
           <FiLinkedin className="text-2xl md:text-3xl text-amber-700 " />
         </Icon>
         <Icon to="https://www.facebook.com/biswajeet.biswa.73?mibextid=ZbWKwL">
