@@ -17,7 +17,7 @@ function About() {
       <Links to="/home/info">About</Links>
       <Links to="/home/project">Projects</Links>
       <Links to="/resume">Resume</Links>
-      <Links to="https://www.youtube.com/">Portfolio</Links>
+      <Links to="https://github.com/Biswaaajit/Portfolio.git">Portfolio</Links>
       <Links to="/home/skills">Skills</Links>
     </div>
   );
