@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  background-color: black;
+}
+.home {
+  background: linear-gradient(rgba(7, 6, 6, 0.879), rgba(19, 18, 19, 0.404)),
+    url("/i3.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.aboutLink {
+  text-shadow: 2px 3.5px #b45309;
+}
+.aboutLink:hover {
+  text-shadow: none;
+}
+.skill {
+  text-shadow: 1px 1.8px #b45309;
+}
